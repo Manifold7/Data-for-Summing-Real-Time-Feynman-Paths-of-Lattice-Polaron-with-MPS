@@ -1,2 +1,2 @@
-# Data-for-Summing-Real-Time-Feynman-Paths-of-Lattice-Polaron-with-MPS
-This dataset contains the data from the paper titled "Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States". All computational methods and data analyses are detailed in the main text and supplementary materials. 
+# Data for "Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States"
+This dataset contains the data from the paper titled "Summing Real Time Feynman Paths of Lattice Polaron with Matrix Product States". All computational methods and data analyses are detailed in the main text and supplementary materials. The data are organized as they are presented in the article, e.g. the directory “Fig_2” contains the data of Fig. 2 of the article. For more information, please contact Yuan Wan at yuan.wan@iphy.ac.cn.
